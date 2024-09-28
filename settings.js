@@ -43,3 +43,4 @@ COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,
 ANTI_DELETE : process.env.ANTI_DELETE || false ,
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO        
 };
+RUNTIME 24 hourse On ||True
